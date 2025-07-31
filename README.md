@@ -1,17 +1,13 @@
-# app_registrato
+# Registrado-APP
 
-A new Flutter project.
+#### Aplicativo de Gerenciamento de Mercadorias Avariadas e Vencidas
 
-## Getting Started
+Um aplicativo desenvolvido para facilitar o controle de mercadorias danificadas ou fora do prazo de validade. 
+Com funcionalidades intuitivas para registro, catalogação e acompanhamento de itens comprometidos, o app garante maior rastreabilidade, organização e eficiência no gerenciamento de estoque. 
+Ideal para supermercados, distribuidoras e centros de logística, o sistema ajuda a reduzir perdas, agilizar relatórios e garantir conformidade com boas práticas de gestão.
 
-This project is a starting point for a Flutter application.
+### 🖼️ Visual do Aplicativo
 
-A few resources to get you started if this is your first Flutter project:
+Abaixo, veja um exemplo da interface do aplicativo:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# app_registrato
+![Tela Inicial do Aplicativo](template/home.png)
